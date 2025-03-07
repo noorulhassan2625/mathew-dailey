@@ -1,0 +1,11 @@
+git config –global user.name “matdailey”
+
+git@github.com:matdailey/azure-resume.git
+https://github.com/ACloudGuru-Resources/acg-project-azure-resume-starter.git
+
+
+
+
+
+https://acrcstorage1.z5.web.core.windows.net/
+https://acrcstorage1-secondary.z5.web.core.windows.net/
